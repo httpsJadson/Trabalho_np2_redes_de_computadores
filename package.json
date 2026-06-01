@@ -1,0 +1,22 @@
+{
+  "name": "trabalho_np2_redes_de_computadores",
+  "version": "1.0.0",
+  "description": "Este projeto foi desenvolvido como parte de uma atividade prática sobre redes de computadores.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:server": "node server.js",
+    "start:client": "node client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/httpsJadson/Trabalho_np2_redes_de_computadores.git"
+  },
+  "keywords": [],
+  "author": "@httpsJadson",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/httpsJadson/Trabalho_np2_redes_de_computadores/issues"
+  },
+  "homepage": "https://github.com/httpsJadson/Trabalho_np2_redes_de_computadores#readme"
+}
